@@ -16,12 +16,16 @@ nav {
   display: flex;
   flex-direction: row;
   padding: 1rem;
-  justify-content: space-evenly;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-items:first-baseline;
+  align-content: space-between;
+  flex-basis: 200px;
 }
-
 
 img {
-  max-height: auto;
+  max-height: 350px;
   width: auto;
 }
+
 

@@ -6,6 +6,8 @@ Sec 7 - CSS: Selectors (69 - 82)
 Sec 8 - CSS: Box Model (83 - 91)
 Sec 9 - CSS: Additional Properties (92 - 102)
 Sec 10 - Responsive CSS & Flexbox (102 - 115)
+Sec 11 - Panel Project (CSS Flexbox)
+Sec 12 - Bootstrap
 
 Mon, Jun 24
   - initialized github repo
@@ -26,4 +28,10 @@ Fri, July 5
   
 Sat, July 6
   - Photo blog project using Flexbox
-  - Flex-Direction, Justify-Content, Flex-Wrap, Align-Items
+  - Main axis: Flex-Direction, Justify-Content
+  - Cross axis: Flex-Wrap, Align-Items, Align-Content, Align-Self
+  - Flex Sizing (individual items): basis, grow, shrink
+  - Media Queries (order sequentially for sizes)
+
+Sun, July 6
+  - Bootstrap
