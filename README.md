@@ -35,3 +35,7 @@ Sat, July 6
 
 Sun, July 6
   - Bootstrap
+
+July 26 - Aug 5
+  - DOM Intro
+  - DOM Events
